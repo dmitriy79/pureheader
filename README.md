@@ -19,3 +19,5 @@ That Scryptenthusiast is major whale and in a position to manipulate the market 
 [Bitcointalk thread](https://bitcointalk.org/index.php?topic=2016963.msg53806740#msg53806740)
 
 7 Billion is a significant enough amount to provide a motive for the continued efforts by Scryptenthusiast to use his social media presense to drive traffic to Yobit and to attempt to discredit the broader community members and developers who advise against any dealings with Yobit.
+
+We will also outline the history of attacks against developers working to improve the codebase and make the case that developers are disincentivised to work on this project due to the perception that it isn't worth the expenditure of scarce resources when the work is undermined by personal attacks, unfounded accusations and loss of value on the project itself from being associated with scam like behavior.
