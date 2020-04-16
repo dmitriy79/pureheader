@@ -16,5 +16,6 @@ Initially we will focus on Scryptentusiasts relationship with Yobit - considered
 
 That Scryptenthusiast is major whale and in a position to manipulate the market on Yobit is well established by documentation he posted in the Bitcointalk thread he uses to promote Yobit and himself. Using methods we will document at a later date we were able to reach a reasonable guestimate of how much NYC Scryptenthusiast had trapped on Yobit when the exchange stopped all withdrawals - the number calculated was ~7 Billion NYC.
 ![Exhibit A](https://ip.bitcointalk.org/?u=https%3A%2F%2Fcdn.discordapp.com%2Fattachments%2F409847522282962955%2F601175424474546177%2Funknown.png&t=612&c=M6ufuweHAVhU5Q)
+[Bitcointalk thread](https://bitcointalk.org/index.php?topic=2016963.msg53806740#msg53806740)
 
 7 Billion is a significant enough amount to provide a motive for the continued efforts by Scryptenthusiast to use his social media presense to drive traffic to Yobit and to attempt to discredit the broader community members and developers who advise against any dealings with Yobit.
