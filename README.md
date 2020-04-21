@@ -21,3 +21,9 @@ That Scryptenthusiast is major whale and in a position to manipulate the market 
 7 Billion is a significant enough amount to provide a motive for the continued efforts by Scryptenthusiast to use his social media presense to drive traffic to Yobit and to attempt to discredit the broader community members and developers who advise against any dealings with Yobit.
 
 We will also outline the history of attacks against developers working to improve the codebase and make the case that developers are disincentivised to work on this project due to the perception that it isn't worth the expenditure of scarce resources when the work is undermined by personal attacks, unfounded accusations and loss of value on the project itself from being associated with scam like behavior.
+
+Additional Measures:
+
+* Identify stranded funds remaining on exhanges that were 51% attacked [Yobit, TradeSatoshi, Crex24]
+* Identify funds stranded by the shutdown of Coingather
+* Investigate the feasibility of freezing and redistribution of those funds as mining rewards or removing those funds via coin-burn.
