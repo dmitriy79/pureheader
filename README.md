@@ -28,7 +28,7 @@ I'm also the primary laison and trouble shooter for mining pool issues (Prohashi
 
 ![scryptenthusiast](https://media.discordapp.net/attachments/514102356380614665/702273609665871962/Screenshot_20200421-144341.png?width=585&height=1170)
 
-I also devote significant time to support the community, answer questions. One that often comes up is "why can't I withdraw my funds from Yobit".  If scryptenthusiast would stop shilling Yobit our paths would never cross but part of my support role is to help the community avoid scams, bad actors and pump and dumps.  I've posted [more than 5 thousand messages](https://mee6.xyz/leaderboard/422889178989199362) on the community discord, the bulk of which are responding to questions.
+I also devote significant time to support the community and answer questions. One that often comes up is "why can't I withdraw my funds from Yobit".  If scryptenthusiast would stop shilling Yobit our paths would never cross but part of my support role is to help the community avoid scams, bad actors and pump and dumps.  I've posted [more than 5 thousand messages](https://mee6.xyz/leaderboard/422889178989199362) on the community discord, the bulk of which are responding to questions.
  
 To be honest, this repo was stood up as a joke because scryptenthusiast kept posting everywhere he could that I was only allowed to edit readme files, but the community reponse to this toungue-in-cheek effort has been ovewhelmingly positive so once we have had time to conduct a poll and get sufficient buy-in from the community, pools and exchanges it's starting to look more and more like it's going to happen.  So if scryptenthusiast is going to focus his rage on me and that means I'm going to have to take one for the team then so be it.
 
