@@ -24,9 +24,9 @@ We will also outline the history of attacks against developers working to improv
 
 Update April 21, 2020 - Scryptenthusiast has now revised his critque and focused on me which is good news for the rest of the team. My primary role has always been code-review, testnet support and web-development.
 
-I'm also the primary laison and trouble shooter for mining pool issues (Prohashing and Mining Dutch) as well as the primary point of contact for Graviex and SouthXchange. During the 51% attack I was the one who raised the alarm when the hashrate spikes started and it was me that traced the double-spends.  I'm also the one who tracked the funds and worked with Graviex to lock them up and subsequently used those funds along with my own to pay the bounty for the latest code update that will bring us into parity with the latest bitcoin, allowing us to fulfill our roadmap.
-
 ![scryptenthusiast](https://media.discordapp.net/attachments/514102356380614665/702273609665871962/Screenshot_20200421-144341.png?width=585&height=1170)
+
+I'm also the primary laison and trouble shooter for mining pool issues (Prohashing and Mining Dutch) as well as the primary point of contact for Graviex and SouthXchange. During the 51% attack I was the one who raised the alarm when the hashrate spikes started and it was me that traced the double-spends.  I'm also the one who tracked the funds and worked with Graviex to lock them up and subsequently used those funds along with my own to pay the bounty for the latest code update that will bring us into parity with the latest bitcoin, allowing us to fulfill our roadmap.
 
 I also devote significant time to support the community and answer questions. One that often comes up is "why can't I withdraw my funds from Yobit".  If scryptenthusiast would stop shilling Yobit our paths would never cross but part of my support role is to help the community avoid scams, bad actors and pump and dumps.  I've posted [more than 5 thousand messages](https://mee6.xyz/leaderboard/422889178989199362) on the community discord, the bulk of which are responding to questions.
  
