@@ -22,7 +22,7 @@ That Scryptenthusiast is major whale and in a position to manipulate the market 
 
 We will also outline the history of attacks against developers working to improve the codebase and make the case that developers are disincentivised to work on this project due to the perception that it isn't worth the expenditure of scarce resources when the work is undermined by personal attacks, unfounded accusations and loss of value on the project itself from being associated with scam like behavior.
 
-Update April 21, 2020 - Scryptenthusiast has now revised his critque and focused on me which is good news for the rest of the team. My primary role has always been code-review, testnet support and web-development.
+Update April 21, 2020 - Scryptenthusiast has now revised his critique and focused on me which is good news for the rest of the team. My primary role has always been code-review, testnet support and web-development.
 
 ![scryptenthusiast](https://media.discordapp.net/attachments/514102356380614665/702273609665871962/Screenshot_20200421-144341.png?width=585&height=1170)
 
