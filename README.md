@@ -37,5 +37,5 @@ To be honest, this repo was stood up as a joke because scryptenthusiast kept pos
 Additional Measures:
 
 * Identify stranded funds remaining on exhanges that were 51% attacked [Yobit, TradeSatoshi, Crex24]
-* Identify funds stranded by the shutdown of Coingather
+* Identify funds stranded by the shutdown of Coingather (update: no action will be taken pending https://www.justice.gov/usao-edmi/coingather )
 * Investigate the feasibility of freezing and redistribution of those funds as mining rewards or removing those funds via coin-burn
